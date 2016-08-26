@@ -1,4 +1,3 @@
-layout_spectrum: 0.04250778444111347
 typography_spectrum: 0.38909795600920916
 color:
   brandStrength: 0.19373593828640878
@@ -6,9 +5,11 @@ color:
   saturation: 0.8213809009175748
   rhythmicContrast: 0.7619211410637945
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+layout_spectrum: 0.04250778444111347
 name: Box Media
+description: In time and Space
