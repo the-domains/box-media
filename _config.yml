@@ -1,0 +1,14 @@
+layout_spectrum: 0.04250778444111347
+typography_spectrum: 0.38909795600920916
+color:
+  brandStrength: 0.19373593828640878
+  lightness: 0.9793578481767327
+  saturation: 0.8213809009175748
+  rhythmicContrast: 0.7619211410637945
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: Box Media
